@@ -1,0 +1,6 @@
+{
+  "name": "KetikJuara - Game Belajar Mengetik Siswa",
+  "description": "Platform game interaktif belajar mengetik 10 jari untuk siswa dengan level bertingkat, kustomisasi karakter, leaderboard global, mode kompetisi multiplayer kelas, dan analisis performa guru real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
